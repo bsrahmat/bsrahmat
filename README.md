@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://github.com/bsrahmat/bsrahmat/blob/main/latar1.jpg" alt="" class="img-responsive" width="800">
+</p>
+
 <!--
 **bsrahmat/bsrahmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
