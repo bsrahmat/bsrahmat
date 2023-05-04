@@ -11,7 +11,7 @@
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=bsrahmat&show_icons=true&theme=blue-green" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsrahmat&theme=blue-green&langs_count=8&layout=compact" /></div>
+<img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsrahmat&theme=radical&layout=compact" /></div>
 </div>
 
 
