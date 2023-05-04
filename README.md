@@ -4,9 +4,10 @@
   <img src="https://github.com/bsrahmat/bsrahmat/blob/main/latar1.jpg" alt="" class="img-responsive" width="1200">
 </p>
 
+<p align="center">
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bsrahmat&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bsrahmat&langs_count=5&theme=tokyonight)]()
-
+</p>
 
 <!--
 **bsrahmat/bsrahmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
