@@ -4,9 +4,6 @@
   <img src="https://github.com/bsrahmat/bsrahmat/blob/main/latar1.jpg" alt="" class="img-responsive" width="1200">
 </p>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bsrahmat&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bsrahmat&langs_count=5&theme=tokyonight)]()
-
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=bsrahmat&show_icons=true&theme=blue-green" />
 &nbsp;
