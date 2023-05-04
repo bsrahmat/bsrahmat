@@ -7,6 +7,13 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bsrahmat&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bsrahmat&langs_count=5&theme=tokyonight)]()
 
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=bsrahmat&show_icons=true&theme=blue-green" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsrahmat&theme=blue-green&langs_count=8&layout=compact" /></div>
+</div>
+
 
 <!--
 **bsrahmat/bsrahmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
