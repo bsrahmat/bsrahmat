@@ -1,4 +1,4 @@
-### Hi fellow researchers. InsyaAllah, the I-OT.Net and IO-T.Net teams and I are ready to share knowledge, especially about Artificial Intelligence (AI) and Internet of Things (IoT) programming. Hopefully, it can be helpful for the welfare of the world. Thank You. 👋
+### Hi fellow researchers. InsyaAllah, we are ready to share knowledge, especially about Artificial Intelligence (AI) and Internet of Things (IoT) programming. Hopefully, it can be helpful for the welfare of the world. Thank You. 👋
 
 <p align="center">
   <img src="https://github.com/bsrahmat/bsrahmat/blob/main/latar1.jpg" alt="" class="img-responsive" width="990">
