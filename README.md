@@ -1,7 +1,7 @@
 ### Hi fellow researchers. InsyaAllah, I and I-OT.Net and IO-T.Net teams are ready to share knowledge, especially about Artificial Intelligence (AI) and Internet of Things (IoT) programming. Hopefully it can be useful and become a good deed for us. Thank You. 👋
 
 <p align="center">
-  <img src="https://github.com/bsrahmat/bsrahmat/blob/main/latar1.jpg" alt="" class="img-responsive" width="988">
+  <img src="https://github.com/bsrahmat/bsrahmat/blob/main/latar1.jpg" alt="" class="img-responsive" width="990">
 </p>
 
 <div class='container'>
@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-<img src="https://github.com/bsrahmat/bsrahmat/blob/main/code.gif" alt="" class="img-responsive" width="988">
+<img src="https://github.com/bsrahmat/bsrahmat/blob/main/code.gif" alt="" class="img-responsive" width="990">
 </p>
 
 
