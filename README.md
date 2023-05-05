@@ -15,7 +15,9 @@
 ### The newest repositories
 
 <div class='container'>
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-02" link="https://github.com/bsrahmat/itclab-02"/>
+<a href="[https://github.com/bsrahmat/imclab](https://github.com/bsrahmat/itclab-02)" target="_blank">
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-02"/>
+</a>
 &nbsp;
 <img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-03" link="https://github.com/bsrahmat/itclab-03"/>
 </div>
