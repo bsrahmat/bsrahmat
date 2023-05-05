@@ -11,6 +11,8 @@
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsrahmat&theme=radical&layout=compact" /></div>
 </div>
 
+<img  src="https://readme-components.vercel.app/api?component=experience&company=I-OT.Net&role=IoT and AI%20Engineer%20&location=Surabaya Indonesia&fill=black">
+</a>
 
 <!--
 **bsrahmat/bsrahmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
