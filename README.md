@@ -11,6 +11,8 @@
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsrahmat&theme=radical&layout=compact" /></div>
 </div>
 
+<code><img height="20" src="https://github.com/bsrahmat/bsrahmat/blob/main/code.gif"></code>
+
 
 
 <!--
