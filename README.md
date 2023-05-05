@@ -16,7 +16,7 @@
 
 <div class='container'>
 <a href="https://github.com/bsrahmat/itclab-02">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-02"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-02&show_description=true" />
 </a>
 &nbsp;
 <a href="https://github.com/bsrahmat/itclab-03">
