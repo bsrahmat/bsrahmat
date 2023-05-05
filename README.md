@@ -16,6 +16,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-02)](https://github.com/bsrahmat/itclab-02)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-03)](https://github.com/bsrahmat/itclab-03)
+
 
 <!--
 **bsrahmat/bsrahmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
