@@ -14,15 +14,7 @@
 
 ### The newest repositories
 
-<div class='container'>
-<a href="https://github.com/bsrahmat/itclab-02">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-02&show_description=true"/>
-</a>
-&nbsp;
-<a href="https://github.com/bsrahmat/itclab-03">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-03&show_description=true"/>
-</div>
-</a>
+
 
 <!--
 **bsrahmat/bsrahmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
