@@ -11,7 +11,7 @@
 <img style="height: auto; width: 42%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsrahmat&theme=radical&layout=compact" /></div>
 </div>
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bsrahmat&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **bsrahmat/bsrahmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
