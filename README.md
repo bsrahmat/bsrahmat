@@ -6,10 +6,11 @@
 
 <div class='container'>
 <img style="height: auto; width: 37%;" class="img" src="https://github-readme-stats.vercel.app/api?username=bsrahmat&show_icons=true&theme=blue-green" />
-&nbsp;
+</div>
+<div>
 <img style="height: auto; width: 30%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsrahmat&theme=radical&layout=compact" />
-
-&nbsp;
+</div>
+<div>
 <img style="height: auto; width: 25%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=bsrahmat&theme=dark&background=000000)" />
 </div>
 
