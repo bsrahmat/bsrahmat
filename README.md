@@ -5,9 +5,11 @@
 </p>
 
 <div class='container'>
-<img style="height: auto; width: 37%;" class="img" src="https://github-readme-stats.vercel.app/api?username=bsrahmat&show_icons=true&theme=blue-green" />
-<img style="height: auto; width: 30%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsrahmat&theme=radical&layout=compact" />
-<img style="height: 400; width: 30%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=bsrahmat&theme=dark&background=000000)" />
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=bsrahmat&show_icons=true&theme=blue-green" />
+<img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsrahmat&theme=radical&layout=compact" />
+</div>
+<div class='container'>
+<img style="height: 400; width: 100%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=bsrahmat&theme=dark&background=000000)" />
 </div>
 
 <!--
