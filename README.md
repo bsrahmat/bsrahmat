@@ -14,11 +14,7 @@
 
 ### The newest repositories
 
-<div class='container'>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-02)](https://github.com/bsrahmat/itclab-02)
-&nbsp;
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-03"/>
-</div>
 
 
 <!--
