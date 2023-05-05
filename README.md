@@ -10,7 +10,7 @@
 <img style="height: auto; width: 30%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsrahmat&theme=radical&layout=compact" />
 
 &nbsp;
-<img style="height: auto; width: 30%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=bsrahmat&theme=dark&background=000000)" />
+<img style="height: auto; width: 25%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=bsrahmat&theme=dark&background=000000)" />
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bsrahmat&theme=dark&background=000000)](https://git.io/streak-stats)
