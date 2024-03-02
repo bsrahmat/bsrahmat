@@ -14,6 +14,10 @@
 
 ### The iTCLab research
 
+<p align="center">
+  <img src="https://github.com/bsrahmat/bsrahmat/blob/main/iTCLab_bar1.png" alt="" class="img-responsive" width="990">
+</p>
+
 <div class='container'>
 <a href="https://github.com/bsrahmat/itclab-01">
 <img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-01&show_description=false"/>
