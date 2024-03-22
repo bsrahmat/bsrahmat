@@ -35,18 +35,18 @@
 </a>
 &nbsp;
 <a href="https://github.com/bsrahmat/itclab-04">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-04&show_description=true"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-04&show_description=false"/>
 </div>
 </a>
 
 
 <div class='container'>
 <a href="https://github.com/bsrahmat/itclab-05">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-05&show_description=true"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-05&show_description=false"/>
 </a>
 &nbsp;
 <a href="https://github.com/bsrahmat/itclab-06">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-06&show_description=true"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-06&show_description=false"/>
 </div>
 </a>
 
