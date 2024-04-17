@@ -93,18 +93,18 @@
 
 <div class='container'>
 <a href="https://github.com/bsrahmat/ebook-01">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=ebook-01&show_description=true"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=ebook-01&show_description=false"/>
 </a>
 &nbsp;
 <a href="https://github.com/bsrahmat/ebook-02">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=ebook-02&show_description=true"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=ebook-02&show_description=false"/>
 </div>
 </a>
 
 
 <div class='container'>
 <a href="https://github.com/bsrahmat/ebook-03">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=ebook-03&show_description=true"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=ebook-03&show_description=false"/>
 </a>
 &nbsp;
 <a href="https://github.com/bsrahmat/ebook-04">
