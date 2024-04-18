@@ -124,3 +124,14 @@
 </a>
 
 
+<div class='container'>
+<a href="https://github.com/bsrahmat/ebook-07">
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=ebook-07&show_description=true"/>
+</a>
+&nbsp;
+<a href="https://github.com/bsrahmat/ebook-08">
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=ebook-08&show_description=true"/>
+</div>
+</a>
+
+
