@@ -84,6 +84,17 @@
 </a>
 
 
+<div class='container'>
+<a href="https://github.com/bsrahmat/itclab-13">
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-13&show_description=true"/>
+</a>
+&nbsp;
+<a href="https://github.com/bsrahmat/itclab-14">
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-14&show_description=true"/>
+</div>
+</a>
+
+
 
 ### AI and IT E-BOOKS
 
