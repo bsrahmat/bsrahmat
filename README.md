@@ -96,7 +96,7 @@
 
 
 
-### AI and IT E-BOOKS
+### AI and IT E-Books
 
 <p align="center">
   <img src="https://github.com/bsrahmat/bsrahmat/blob/main/ebook_bar1.png" alt="" class="img-responsive" width="990">
@@ -156,4 +156,51 @@
 </div>
 </a>
 
+
+
+### Important Project Source Codes
+
+<p align="center">
+  <img src="https://github.com/bsrahmat/bsrahmat/blob/main/code_bar.png" alt="" class="img-responsive" width="990">
+</p>
+
+<div class='container'>
+<a href="https://github.com/bsrahmat/fuzzy-neural">
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=fuzzy-neural&show_description=true"/>
+</a>
+&nbsp;
+<a href="https://github.com/bsrahmat/robot-bnu">
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=robot-bnu&show_description=true"/>
+</div>
+</a>
+
+<div class='container'>
+<a href="https://github.com/bsrahmat/dl">
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=dl&show_description=true"/>
+</a>
+&nbsp;
+<a href="https://github.com/bsrahmat/e-finance">
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=e-finance&show_description=true"/>
+</div>
+</a>
+
+<div class='container'>
+<a href="https://github.com/bsrahmat/simaset">
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=simaset&show_description=true"/>
+</a>
+&nbsp;
+<a href="https://github.com/bsrahmat/simdes">
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=simdes&show_description=true"/>
+</div>
+</a>
+
+<div class='container'>
+<a href="https://github.com/bsrahmat/simretribusi">
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=simretribusi&show_description=true"/>
+</a>
+&nbsp;
+<a href="https://github.com/bsrahmat/sagada">
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=sagada&show_description=true"/>
+</div>
+</a>
 
