@@ -186,7 +186,7 @@
 
 <div class='container'>
 <a href="https://github.com/bsrahmat/simaset">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=simaset&show_description=true"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=simaset&show_description=false"/>
 </a>
 &nbsp;
 <a href="https://github.com/bsrahmat/simdes">
