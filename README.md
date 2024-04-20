@@ -190,17 +190,17 @@
 </a>
 &nbsp;
 <a href="https://github.com/bsrahmat/simdes">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=simdes&show_description=true"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=simdes&show_description=false"/>
 </div>
 </a>
 
 <div class='container'>
 <a href="https://github.com/bsrahmat/simretribusi">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=simretribusi&show_description=true"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=simretribusi&show_description=false"/>
 </a>
 &nbsp;
 <a href="https://github.com/bsrahmat/sagada">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=sagada&show_description=true"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=sagada&show_description=false"/>
 </div>
 </a>
 
