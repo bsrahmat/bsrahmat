@@ -35,25 +35,25 @@
 </a>
 &nbsp;
 <a href="https://github.com/bsrahmat/itclab-04">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-04&show_description=false"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-04&show_description=true"/>
 </div>
 </a>
 
 
 <div class='container'>
 <a href="https://github.com/bsrahmat/itclab-05">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-05&show_description=false"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-05&show_description=true"/>
 </a>
 &nbsp;
 <a href="https://github.com/bsrahmat/itclab-06">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-06&show_description=false"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-06&show_description=true"/>
 </div>
 </a>
 
 
 <div class='container'>
 <a href="https://github.com/bsrahmat/itclab-07">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-07&show_description=false"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=itclab-07&show_description=true"/>
 </a>
 &nbsp;
 <a href="https://github.com/bsrahmat/itclab-08">
@@ -104,18 +104,18 @@
 
 <div class='container'>
 <a href="https://github.com/bsrahmat/ebook-01">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=ebook-01&show_description=false"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=ebook-01&show_description=true"/>
 </a>
 &nbsp;
 <a href="https://github.com/bsrahmat/ebook-02">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=ebook-02&show_description=false"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=ebook-02&show_description=true"/>
 </div>
 </a>
 
 
 <div class='container'>
 <a href="https://github.com/bsrahmat/ebook-03">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=ebook-03&show_description=false"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=ebook-03&show_description=true"/>
 </a>
 &nbsp;
 <a href="https://github.com/bsrahmat/ebook-04">
@@ -137,7 +137,7 @@
 
 <div class='container'>
 <a href="https://github.com/bsrahmat/ebook-07">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=ebook-07&show_description=false"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=ebook-07&show_description=true"/>
 </a>
 &nbsp;
 <a href="https://github.com/bsrahmat/ebook-08">
@@ -186,21 +186,21 @@
 
 <div class='container'>
 <a href="https://github.com/bsrahmat/simaset">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=simaset&show_description=false"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=simaset&show_description=true"/>
 </a>
 &nbsp;
 <a href="https://github.com/bsrahmat/simdes">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=simdes&show_description=false"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=simdes&show_description=true"/>
 </div>
 </a>
 
 <div class='container'>
 <a href="https://github.com/bsrahmat/simretribusi">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=simretribusi&show_description=false"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=simretribusi&show_description=true"/>
 </a>
 &nbsp;
 <a href="https://github.com/bsrahmat/sagada">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=sagada&show_description=false"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=sagada&show_description=true"/>
 </div>
 </a>
 
