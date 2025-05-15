@@ -152,7 +152,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/bsrahmat/ebook-10-11">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=ebook-10-11&show_description=true"/>
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=bsrahmat&repo=ebook-10-11&show_description=false"/>
 </div>
 </a>
 
