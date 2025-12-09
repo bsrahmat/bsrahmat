@@ -4,18 +4,6 @@
   <img src="https://github.com/bsrahmat/bsrahmat/blob/main/latar1.jpg" alt="" class="img-responsive" width="990">
 </p>
 
-
-<div class='container' style="display: flex; gap: 10px; align-items: center;">
-  <img 
-    style="width: 62%;" 
-    src="https://github-readme-stats.vercel.app/api?username=bsrahmat&show_icons=true&theme=default&cache_seconds=86400" 
-  />
-  <img 
-    style="width: 37%;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsrahmat&layout=compact&hide_border=true&cache_seconds=86400" 
-  />
-</div>
-
 <div class='container'>
 <img style="height: 400; width: 100%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=bsrahmat&theme=dark&background=000000)" />
 </div>
