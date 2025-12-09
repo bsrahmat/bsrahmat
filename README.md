@@ -5,6 +5,23 @@
 </p>
 
 <div class='container'>
+  <!-- Working stats card -->
+  <img 
+    style="height: auto; width: 62%; max-width: 100%;" 
+    src="https://github-readme-stats.vercel.app/api?username=bsrahmat&show_icons=true&theme=blue-green&cache_seconds=1800" 
+    alt="GitHub Stats"
+  />
+  
+  <!-- Fixed languages card with fallback -->
+  <img 
+    style="height: auto; width: 37%; max-width: 100%;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsrahmat&theme=radical&layout=compact&hide_border=true&cache_seconds=3600" 
+    alt="Top Languages"
+    onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api/top-langs/?username=bsrahmat&layout=compact&hide_border=true'"
+  />
+</div>
+
+<div class='container'>
 <img style="height: 400; width: 100%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=bsrahmat&theme=dark&background=000000)" />
 </div>
 
