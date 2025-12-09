@@ -5,33 +5,6 @@
 </p>
 
 <div class='container'>
-  <div style="width: 62%;">
-    <img id="stats-img" style="width: 100%;" />
-  </div>
-  <div style="width: 37%;">
-    <img id="langs-img" style="width: 100%;" />
-  </div>
-</div>
-
-<script>
-  // Set image sources with retry logic
-  const images = [
-    {id: 'stats-img', url: 'https://github-readme-stats.vercel.app/api?username=bsrahmat&show_icons=true&theme=blue-green'},
-    {id: 'langs-img', url: 'https://github-readme-stats.vercel.app/api/top-langs/?username=bsrahmat&theme=radical'}
-  ];
-  
-  images.forEach(img => {
-    const element = document.getElementById(img.id);
-    element.src = img.url;
-    element.onerror = function() {
-      console.log(`Failed to load: ${img.url}`);
-      this.parentElement.innerHTML = `<p style="color: #666;">Failed to load stats. Check username or try again later.</p>`;
-    };
-  });
-</script>
-
-
-<div class='container'>
 <img style="height: 400; width: 100%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=bsrahmat&theme=dark&background=000000)" />
 </div>
 
