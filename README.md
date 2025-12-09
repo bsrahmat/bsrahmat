@@ -4,20 +4,15 @@
   <img src="https://github.com/bsrahmat/bsrahmat/blob/main/latar1.jpg" alt="" class="img-responsive" width="990">
 </p>
 
-<div class='container'>
-  <!-- Working stats card -->
+
+<div class='container' style="display: flex; gap: 10px; align-items: center;">
   <img 
-    style="height: auto; width: 62%; max-width: 100%;" 
-    src="https://github-readme-stats.vercel.app/api?username=bsrahmat&show_icons=true&theme=blue-green&cache_seconds=1800" 
-    alt="GitHub Stats"
+    style="width: 62%;" 
+    src="https://github-readme-stats.vercel.app/api?username=bsrahmat&show_icons=true&theme=default&cache_seconds=86400" 
   />
-  
-  <!-- Fixed languages card with fallback -->
   <img 
-    style="height: auto; width: 37%; max-width: 100%;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsrahmat&theme=radical&layout=compact&hide_border=true&cache_seconds=3600" 
-    alt="Top Languages"
-    onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api/top-langs/?username=bsrahmat&layout=compact&hide_border=true'"
+    style="width: 37%;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsrahmat&layout=compact&hide_border=true&cache_seconds=86400" 
   />
 </div>
 
