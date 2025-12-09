@@ -5,9 +5,25 @@
 </p>
 
 <div class='container'>
-<img style="height: auto; width: 62%;" class="img" src="https://github-readme-stats.vercel.app/api?username=bsrahmat&show_icons=true&theme=blue-green" />
-<img style="height: auto; width: 37%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsrahmat&theme=radical" />
+  <!-- Added alt text, loading attribute, and fallback styling -->
+  <img 
+    style="height: auto; width: 62%; max-width: 100%; display: block;" 
+    class="img" 
+    src="https://github-readme-stats.vercel.app/api?username=bsrahmat&show_icons=true&theme=blue-green" 
+    alt="bsrahmat's GitHub Stats"
+    loading="lazy"
+    onerror="this.style.display='none'"
+  />
+  <img 
+    style="height: auto; width: 37%; max-width: 100%; display: block;" 
+    class="img" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsrahmat&theme=radical&layout=compact" 
+    alt="bsrahmat's Top Languages"
+    loading="lazy"
+    onerror="this.style.display='none'"
+  />
 </div>
+
 <div class='container'>
 <img style="height: 400; width: 100%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=bsrahmat&theme=dark&background=000000)" />
 </div>
